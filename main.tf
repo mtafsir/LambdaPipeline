@@ -4,7 +4,7 @@ terraform {
     organization = "mtafsir"
 
     workspaces {
-      name = "Lambda-Pipeline-Test"
+      name = "Lambda-Pipeline-Test-V2"
     }
   }
 
