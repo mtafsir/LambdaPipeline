@@ -1,4 +1,4 @@
-# LambdaPipeline
+# LambdaPipelines
 
 # OIDC was used here with Terraform Cloud. The documentation is listed below
 1. Terraform cloud (https://developer.hashicorp.com/terraform/cloud-docs/workspaces/dynamic-provider-credentials/aws-configuration)
